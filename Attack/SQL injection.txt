@@ -1,0 +1,49 @@
+In this article, I will talk about SQL injection.
+
+----------------------------------------
+SQL injection refers insert one or many chars in SQL cmd to 
+(1.1)Fecth some data.
+(1.2)Modified some data.
+(1.3)Make the system etc crash.
+etc
+
+----------------------------------------
+SQL injection can be categorized into 3 major thypes.
+(2.1)In-band SQL Injection:
+(2.1.1)Union-based:
+(2.1.1.1)Insert an UNION cmd in SQL cmd to merge all records for display into 1 record to fetch specific data.
+(2.1.1.2)Insert an '||' (logical OR)symbol in SQL cmd to select all records or all fields to fetch specific data.
+logical OR refers one of these statements are true, the result must be true.
+Such as the following statement.
+a OR b
+
+When either a or b (or both) is true, 
+a OR b
+is true.
+
+Image that if one inserts "|| 1==1" at the end of where statement.
+
+For example,
+the original cmd is
+
+SELECT field1,field2 where cond1=='test' and cond2=='true';
+
+Cmd after modified
+
+SELECT field1,field2 where (cond1=='test' and cond2=='true') or (1==1);
+
+The SQL cmd after modified must display all records since the where statement is always true.
+
+(2.1.2)Error-based:
+Insert one char or more chars in SQL cmd to cause error when running SQL cmd,
+fetching specific data from error message.
+
+(2.2)Inference (Blind) SQL Injection:
+
+(2.3)Out-of-band SQL Injection:
+
+
+----------------------------------------
+[ref]
+Chinese version.
+https://tech-blog.cymetrics.io/posts/nick/sqli/
