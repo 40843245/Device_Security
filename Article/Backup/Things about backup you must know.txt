@@ -9,4 +9,36 @@ Backup refers to copy files and move them into different locations.
 
 -------------------------------------
 Why do we need to backup files?
-Since your data may be stolen, be loss, or even by encryted by hijacker (such as randsomware).
+Since your data may be stolen, be loss, or even by encryted by hijacker (such as ransomware).
+If you don't backup files, your files may be loss and you will NOT to retrieve anymore, saying goodbye with your data.
+If you don't backup files, your files may be encrypted by ransomware and 
+you have to pay lots money (and there is some possibility to retrieve data) or you will have no chance to retrieve data back.
+
+-------------------------------------
+Details:
+
+(3.1)Please backup the data at least three different locations.
+The author of the article recommends that the each of files are distanced at least 30 kilograms.
+
+(3.2)Disconnect the backups and your devices.
+(3.3)Disconnect the backups to Networks.
+
+Why?
+When your data are stolen, the backups may be stolen if you don't disconnect the backups to your device or disconnect the backups to Networks..
+
+(3.4)Regularly backup data.
+
+(3.5)DON'T let anyone know the way you backup your data.
+
+(3.6)I recommend you to backup your sensitvie data and encrypt them.
+
+(3.7)If you use the backup software to backup data, please know the information of the backup software you used.
+Such as 
+How do they backup files?
+Has the software ever had security issues?
+
+-------------------------------------
+[ref]
+(1)Chinese version.
+https://tech-blog.cymetrics.io/posts/nick/backup/
+
