@@ -62,6 +62,7 @@ It can reduce the damage even if the attacker successfully find the specific dat
 
 [method 3]
 (3.3)Data handling.
+Data handling is NOT more important than the method 1 and method 2. Thus, I won't discuss this method here. 
 
 ------------------------------------------
 
