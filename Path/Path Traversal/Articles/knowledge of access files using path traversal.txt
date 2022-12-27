@@ -1,0 +1,4 @@
+In this article, I will provide some links about knowledge of access files using path traversal.
+
+Link:
+https://tech-blog.cymetrics.io/posts/jo/zerobased-path-traversal/
