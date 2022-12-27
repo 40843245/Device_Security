@@ -1,0 +1,27 @@
+In this article, I will discuss what is XSS.
+--------------------------------
+Abbreviation:
+XSS stands for Cross-site Scripting
+--------------------------------
+Introduction:
+XSS is a technique that a hijacker run the javascript on your website.
+--------------------------------
+What can an XSS attack do?
+Steals user's token.
+Use other users's account to login.
+Modify the content of website.
+Redirect other users to a website for phishing.
+--------------------------------
+What can a web developer do to prevent the XSS attack.
+There are many things to do.
+For unfiltered URL, we can
+Use CSP header to NOT run the inline script.
+Filter the URL.
+Change HTML content, then call js-xss to filter out some attribute that NOT should be appear.
+
+--------------------------------
+If you are interested in XSS, you can visit the following link.
+
+--------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/huli/prevent-xss-might-be-harder-than-you-thought/
