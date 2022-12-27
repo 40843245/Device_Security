@@ -1,2 +1,69 @@
+In this article, I will teach you:
+How to reduce the damage due to file accessed using path traversal?
+
+------------------------------------------
+Introduction to traversal:
+Traversal refers to visit all possibles.
+
+------------------------------------------
+Introduction to path traversal:
+Path traversal refers to visit all path(i.e. files and folders) in the specific device.
+
+------------------------------------------
+How to reduce the damage due to file accessed using path traversal?
+
+There are three different methods we can discussed.
+
+[method 1]
+Take at view at filtering out some specific chars when path traversal.
+(3.1)The most intuitive way is to disallow path traversal using remote devices.
+It works, but implement it is really hard.
+
+Uhh? Some people may think that the path in Windows 10 consists of a slash, isn't it?
+Such as 
+C:/Users/user/Program Files/Unity.exe
+
+The answer is correct. 
+However, the encoding matters the issue.
+
+In UTF-8 encoding,  
+%c1%1c 
+will be encoded to a slash
+/
+
+In Github,
+a whitespace
+will be encode as 
+%20
+(See the following link in "Introduction to privilege" section.)
+
+The attacker may use different chars to traverse path and it may be allowed (if the chars are NOT filtered, it depends on how you develop it)
+If you DON'T most ways to traverse path, this method is useless.
+
+P.S.
+I forgot to tell you that some attacker will inject the chars to avoid the limits of specific char.
+
+
+[method 2]
+Take a view at access privilege.
+I believe that most people ever have heard the word "privilege". 
+But, I want to simply introduce the word "privilege".
+
+------------------------------------------
+Introduction to privilege:
+Privilege determines which type of people have the ability to access.
+
+If you want to learn more knowledge about privilege, you can visit my note in the Github. Given in the following link.
+https://github.com/40843245/Term/tree/main/ComputerScience/OS/Basic%20term
+------------------------------------------
+
+(3.2)Minimize the access privilege as possible (especially for sensitive data).
+It can reduce the damage even if the attacker successfully find the specific data by path transveral.
+
+[method 3]
+(3.3)Data handling.
+
+------------------------------------------
+
 [ref]
 https://tech-blog.cymetrics.io/posts/jo/zerobased-path-traversal/
