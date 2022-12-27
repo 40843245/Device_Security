@@ -1,0 +1,9 @@
+In this article, I will only talk you the fact that
+there are many ways to fetch specific data in the website.
+
+If you are interested in it.
+You can look at the following link and learn about the front-end language.
+
+---------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/huli/learn-frontend-from-security-pov/
