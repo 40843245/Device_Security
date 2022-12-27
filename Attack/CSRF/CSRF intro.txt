@@ -1,0 +1,32 @@
+In this article, I will tell you:
+What is CSRF attack?
+
+-------------------------------------
+Abbreviation:
+Cross Site Request Forgery
+
+-------------------------------------
+Analogy:
+Image that you are a customer in a restaurant. 
+A stranger uses your table ID and then submit menu into a waiter.
+And the waiter does NOT check the menu is submitted by yourself.
+
+Thus, you have to bill for the menu which the stranger submits.
+
+In this analogy, I ananlogize the above example with these transitions.
+Stranger is similar to Attacker
+Menu is similar to Request
+Table ID is similar to cookie in website
+Waiter is similar to Web sevrer
+You is similar to User
+
+That's the core concept of CSRF.
+-------------------------------------
+Introduction:
+CSRF refers the technique of a forgery request between different websites.
+
+
+-------------------------------------
+If you are interested in CSRF, you can visit the following link.
+[ref]
+https://tech-blog.cymetrics.io/posts/jo/zerobased-cross-site-request-forgery/
