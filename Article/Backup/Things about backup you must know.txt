@@ -1,0 +1,12 @@
+In this article, I will tell you:
+Some basic knowledge about backup.
+Why do we need to backup files?
+The details of backup files.
+
+-------------------------------------
+Introduction:
+Backup refers to copy files and move them into different locations.
+
+-------------------------------------
+Why do we need to backup files?
+Since your data may be stolen, be loss, or even by encryted by hijacker (such as randsomware).
