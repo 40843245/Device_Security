@@ -39,11 +39,18 @@ Insert one char or more chars in SQL cmd to cause error when running SQL cmd,
 fetching specific data from error message.
 
 (2.2)Inference (Blind) SQL Injection:
+(2.2.1)Content-based
+According to message displayed in GUI.
+(2.2.2)Time-based
+According to time we wait for.
 
 (2.3)Out-of-band SQL Injection:
-
+Through SQL injection to attack system that associate with SQL server. 
+Such as DNS server.
 
 ----------------------------------------
+I refer the following link to write this article.
+
 [ref]
 Chinese version.
 https://tech-blog.cymetrics.io/posts/nick/sqli/
