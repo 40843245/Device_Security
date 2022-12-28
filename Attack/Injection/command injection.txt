@@ -1,0 +1,54 @@
+In this article, I will discuss:
+What is command Injection?
+-----------------------------------------------------
+Introduction to Command Injection:
+Command Injection refers the technique that enters some texts in text entry field to run the specific command.
+
+Some poeple may think that it is NOT possible!!!
+
+It is possible!!!
+It is possible!!!
+It is possible!!!
+
+In Linux, each semicolon ";" refers the end of a statement.
+If one types texts with semicolons more than 1 time and submit, then these statements will be performed. 
+Hence, one can perform lots of commands just by entering some texts with semicolons more than 1 time in Linux.
+
+For example, 
+one submits texts with 
+https://example1.com;pwd;
+in text entry field.
+Then one can look at current location of directory in Linux.
+
+P.S.
+pwd command in Linux refers look at current location.
+
+It is dangerous.
+In above example, one can look at current location in Linux. Then visit all sensitive data, trying to access it which can cause may attacks.
+
+-----------------------------------------------------
+Prevention:
+I recommend you to follow all methods.
+[method 1]
+Take a view at input text.
+(2.1)Check input is valid or invalid by regular expression.
+
+[method 2]
+Take a view at input text.
+(2.2)Set the length of input field.
+Such as 
+An input field to fecth one's birthday does NOT need more than 10 chars.
+Thus, you can set the maximum length of input field as 10.
+
+[method 3]
+Take a view at access privilege.
+(2.3)Minimize privilege as possible if it is NOT needed.
+
+[method 4]
+(2.4)DON'T display the error message about database and system as possible. 
+If it is needed, display more fuzzy error message as you can.
+-----------------------------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/jo/zerobased-injectionattack/
+
+
