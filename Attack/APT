@@ -1,0 +1,15 @@
+In this article, I will simply talk about APT.
+
+-------------------------------------
+Abbreviation:
+APT = Advanced Persistent Threat
+-------------------------------------
+Introduction:
+APT attack refers these following requirements are met.
+(2.1)advanced: attack with advanced skill.
+(2.2)persistent: persistent prepare for attack but NOT be found out.
+(2.3)thread: if attacks successfully, it will highly affect on the victim.
+
+-------------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/crystal/dns-hacking-zone-walk/
