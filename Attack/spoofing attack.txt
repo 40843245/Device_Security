@@ -1,0 +1,9 @@
+In this article, I will talk about the spoofing attack.
+-----------------------------
+Introduction to spoofing attack:
+
+spoofing attack refers a situation in which one or a program successfully identified by another using falsifying data.
+
+-----------------------------
+[ref]
+https://en.wikipedia.org/wiki/Spoofing_attack
