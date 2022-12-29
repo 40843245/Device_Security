@@ -1,0 +1,22 @@
+In this article, I will talk about DNS attack.
+-----------------------------------
+Introduction to DNS attack:
+DNS attack refers the attack to DNS.
+
+-----------------------------------
+Type:
+(2.1)DNS Tunneling:
+It usually features data payloads that can take over a DNS server and allow attackers to manage the remote server and applications. 
+(2.2)DNS Amplification:
+DNS amplification attacks perform DDoS on a targeted server. 
+This involves exploiting open DNS servers that are publicly available, in order to overwhelm a target with DNS response traffic. 
+(2.3)DNS Flood Attack:
+One deploys valid (but spoofed) DNS request packets at an extremely high packet rate and then create a massive group of source IP addresses.
+Since the requests look valid, 
+the DNS servers of the target start responding to all requests.
+After a while, the DNS server can become overwhelmed by the massive amount of requests. 
+
+Valid (but spoofeed) DNS request packaet
+=> create a massive group of IP address 
+=> the DNS server responses the massive group of IP address
+=> the DNS servers goes down and can NOT server more request at this moment.
