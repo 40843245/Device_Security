@@ -1,8 +1,17 @@
 In this article, I will talk about the spoofing attack.
 -----------------------------
 Introduction to spoofing attack:
-
 spoofing attack refers a situation in which one or a program successfully identified by another using falsifying data.
+
+-----------------------------
+Types:
+(2.1)Spoofing TCP/IP
+(2.2)Spoofing domain name
+(2.3)Spoofing referrer
+(2.4)Poisoning of file-sharing networks
+(2.5)E-mail address spoofing
+(2.6)Spoofing geolocation
+(2.7)Caller ID spoofing
 
 -----------------------------
 [ref]
