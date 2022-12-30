@@ -1,0 +1,42 @@
+There are many things can be attacked by the hijacker remotely.
+They can remotely hijack things.
+Due to many things I can list, I only common things in our daily life.
+Also, it will take me at least a few days to finish writing this article.
+I will update it once I find new things.
+
+----------------------------------------
+These things have been attacked for a long time.
+(1.1)OS.
+
+(1.2)Smartphone.
+
+(1.3)Computer, notebook, laptop.
+
+(1.4)ATM.
+
+(1.5)Credit card.
+
+(1.6)VIP card.
+
+----------------------------------------
+For these things, the first time they occurs a few years ago (according to the information I've learned).
+(2.1)Bitcoins
+
+(2.2)Fluorescent screens.
+
+It occurs in Taiwan recently.
+As a Taiwinese blogger, I felt embrassed.
+
+See the following link. Chinese version.
+https://www.bing.com/search?q=%E8%9E%A2%E5%85%89%E6%9D%BF%E9%81%AD%E9%A7%AD&form=ANNTH1&refig=35b209bfbe714af9990113ab9a26bbeb
+
+(2.3)AI car.
+
+There was a person who attack AI cars for experiment NOT gaining benefits.
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2018/01/30/self-driving-car-vs-hacker/
+
+Extra information:
+This link discusses about which are more dangerous? AI cars and traditional cars.
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2017/08/17/selfdriving-car-hacker-danger-human-drive/
