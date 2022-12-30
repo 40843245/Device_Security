@@ -14,7 +14,7 @@ These things have been attacked for a long time.
 
 (1.4)ATM.
 
-(1.5)Credit card.
+(1.5)Credit car
 
 (1.6)VIP card.
 
@@ -40,3 +40,15 @@ Extra information:
 This link discusses about which are more dangerous? AI cars and traditional cars.
 See the following link. Chinese version.
 https://buzzorange.com/techorange/2017/08/17/selfdriving-car-hacker-danger-human-drive/
+
+(2.4)Google Ads.
+I must declare it before discussion.
+Google can fast find ads with malware or even virus within only a few hours and then try to remove it.
+So, we don't worry about Google's product. Just don't do anything to any ads, I believe the ads does NOT harm your device.
+
+In 2018 year, there were a report to YT, saying when one user watched videos on YT, the antiware was activated.
+Then "CoinHive" was found in these ads.
+"CoinHive" can attack your device. In the attacked device, there are 80% CPU are used to mine for attackers.
+
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2018/01/30/youtube-ads-hacker-use-to-mind/
