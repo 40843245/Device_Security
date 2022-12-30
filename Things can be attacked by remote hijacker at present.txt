@@ -1,5 +1,4 @@
-There are many things can be attacked by the hijacker remotely.
-They can remotely hijack things.
+There are many things can be attacked by the hijacker remotely or contain malware.
 Due to many things I can list, I only common things in our daily life.
 Also, it will take me at least a few days to finish writing this article.
 I will update it once I find new things.
@@ -14,13 +13,25 @@ These things have been attacked for a long time.
 
 (1.4)ATM.
 
-(1.5)Credit car
+(1.5)Credit car.
 
 (1.6)VIP card.
 
+(1.7)USB.
+Some USB which officials give contain malware.
+I can NOT believe my government anymore after I saw this article.
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2018/01/10/taiwan-gov-virus/
+
+(1.8)Wifi.
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2017/10/17/wpa2-kracks-attack/
+
+(1.9)Bluetooth.
+
 ----------------------------------------
 For these things, the first time they occurs a few years ago (according to the information I've learned).
-(2.1)Bitcoins
+(2.1)Bitcoins.
 
 (2.2)Fluorescent screens.
 
@@ -52,3 +63,17 @@ Then "CoinHive" was found in these ads.
 
 See the following link. Chinese version.
 https://buzzorange.com/techorange/2018/01/30/youtube-ads-hacker-use-to-mind/
+
+(2.6)Thinkpad (a kind of device to detect fingerprint)
+
+There is an article (of course given below), saying Lenovo's Product -- Thinkpad can be hacked with one password.
+
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2018/01/30/lenovo-thinkpad-fingerprint-sensor-sw-security-break/
+
+P.S.
+Lenovo (聯華) is a technology company in China for specialized in manufacturing consumer electronics, personal computers.
+
+More details on the following link. English version.
+https://en.wikipedia.org/wiki/Lenovo
+
