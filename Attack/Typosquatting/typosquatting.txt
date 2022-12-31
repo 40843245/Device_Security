@@ -1,0 +1,22 @@
+What is Typosquatting?
+-------------------------------
+Introduction to typosquatting:
+Typosquatting refers technique that direct the users into a malicious website if they enter wrong URL website.
+
+Such as 
+Website for typosquatting:
+facebookc.om --> wrong URL => may contain malicious website.
+facebook.com --> correct URL
+gmail.om --> wrong URL => may contain malicious website.
+gmail.com --> correct URL
+
+Some attackers register similar spelling URL website as a malicious website.
+
+-------------------------------
+Prevention:
+Check your spelling when entering URL website.
+
+-------------------------------
+[ref]
+(1)Chinese version:
+https://buzzorange.com/techorange/2018/08/13/fake-site-web-address-phishing-2018/
