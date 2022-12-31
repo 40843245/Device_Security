@@ -2,7 +2,7 @@ In this article, I will list many ways to prevent your data stolen and prevent y
 
 -----------------------------------------------------
 Prevention from most attacks:
-(1.1)Update your app to the newest version if you can.
+(1.1)Update your app and OS to the latest version if you can.
 (1.2)NEVER jailbreak.
 
 See the following link. Chinese version.
@@ -13,10 +13,14 @@ https://buzzorange.com/techorange/2015/09/01/iphone-jailbreak-hacked/
 (1.5)Fix the problem if your device does not work properly.
 (1.6)DON'T go to strange website.
 (1.7)DON'T click any ads.
+(1.8)Turn on firewall if you can.
 
 -----------------------------------------------------
 Prevention from ransomware attack:
 There are many items are same as above, so I won't list them again.
+
+(2.1)Turn off Adobe Flash or set turn off Adobe Flash in Google chrome by default.
+(2.2)Disable macros in Microsoft Office.
 
 See the following link. Chinese version.
 https://buzzorange.com/techorange/2017/03/21/ransomware-pcworld/
