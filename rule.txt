@@ -1,0 +1,8 @@
+In this article, I will list many ways to prevent your data stolen and prevent you from attack as possible.
+
+-----------------------------------------------------
+(1.1)Update your app to the newest version if you can.
+(1.2)NEVER jailbreak.
+(1.3)NEVER click any links unless you know what the link is.
+(1.4)NEVER download any files unless you know what it is and you trust it.
+(1.5)Fix the problem if your device does not work properly.
