@@ -24,3 +24,15 @@ There are many items are same as above, so I won't list them again.
 
 See the following link. Chinese version.
 https://buzzorange.com/techorange/2017/03/21/ransomware-pcworld/
+
+-----------------------------------------------------
+Prevention from attack when downloading app from Andriod:
+(3.1)DON'T download .apk file.
+
+(3.2)Know information about developer.
+
+(3.3)Check the information from request of app is needed.
+If it is NOT need, DO NOT install it.
+
+See the following link. Chinese version.
+https://buzzorange.com/techorange/2011/03/07/keep_malware_off_your_android_phone_5_quick_tips/
